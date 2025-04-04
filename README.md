@@ -91,7 +91,5 @@ This tool is intended for **legal and authorized security assessments only**. By
 ## **Legal Disclaimer**  
 The developers of this tool are **not responsible** for any misuse or illegal activities conducted with it.
 
-**Use responsibly and ethically.** Always obtain **written permission** before scanning third-party systems.  
-
 ---  
 *By using this tool, you acknowledge that you understand and agree to these terms.*
